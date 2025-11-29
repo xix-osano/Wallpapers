@@ -1,4 +1,4 @@
-# SS Wallpaper Collection
+# EMO Wallpaper Collection
 
 My personal wallpaper collection that fits best to tiling window managers.
 
@@ -11,7 +11,6 @@ cd ~/Pictures # You can also choose a different location
 git clone --depth=1 https://github.com/xix-osano/Wallpapers.git
 cd Wallpapers/
 ```
-If you are using the ML4W Dotfiles for Hyprland, you can select the the new wallpaper folder with Waypaper.
 
 ## Update
 
